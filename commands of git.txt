@@ -1,0 +1,13 @@
+ 45  git init
+   46  git config --global user.name "sagar"
+   47  git config --global user.name "Sagar Fulewale"
+   48  git config --global user.email "sagarfulewale@gmail.com"
+   49  git status
+   50  git add -A
+   51  git status
+   52  git commit -m "my first opencart proj commit"
+   53  git status
+   54  git remote add origin "https://github.com/FulewaleSagar1996/OpenCartV1.20.1.git"
+   55  git push origin master
+   56  git history
+   57  history
