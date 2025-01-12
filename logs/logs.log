@@ -1,0 +1,5 @@
+[INFO ] 2025-01-12 23:36:55,678 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-12 23:36:56,410 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-12 23:36:56,419 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-12 23:36:58,238 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-12 23:36:58,298 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***

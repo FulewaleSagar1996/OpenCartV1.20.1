@@ -1,0 +1,56 @@
+[INFO ] 2025-01-10 23:07:13,317 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\Master.xml
+
+[INFO ] 2025-01-10 23:07:19,447 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\Master.xml
+
+[INFO ] 2025-01-10 23:09:24,080 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\Master.xml
+
+[INFO ] 2025-01-10 23:10:07,289 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\Master.xml
+
+[INFO ] 2025-01-10 23:10:13,346 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-10 23:10:13,562 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-10 23:10:14,130 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-10 23:10:14,134 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-10 23:10:16,015 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-10 23:10:16,070 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
+[INFO ] 2025-01-10 23:11:56,977 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\Master.xml
+
+[INFO ] 2025-01-10 23:12:01,769 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-10 23:12:01,981 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-10 23:12:02,743 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-10 23:12:02,747 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-10 23:12:04,566 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-10 23:12:04,622 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
+[INFO ] 2025-01-10 23:21:16,914 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\CrossBrowserTesting.xml
+
+[INFO ] 2025-01-10 23:21:22,650 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-10 23:21:23,320 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-10 23:21:23,918 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-10 23:21:23,928 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-10 23:21:25,705 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-10 23:21:25,768 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
+[INFO ] 2025-01-10 23:21:29,893 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-10 23:21:30,061 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-10 23:21:30,701 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-10 23:21:30,702 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-10 23:21:32,469 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-10 23:21:32,526 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
+[INFO ] 2025-01-10 23:21:34,017 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[ERROR] 2025-01-10 23:21:34,018 TC001_AccountResgistrationTest.Varify_account_reg_page() - Test Failed...
+[INFO ] 2025-01-10 23:22:24,478 Utils.info() - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV1.20.1\CrossBrowserTesting.xml
+
+[INFO ] 2025-01-10 23:22:30,018 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-10 23:22:30,703 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-10 23:22:31,947 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-10 23:22:31,953 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-10 23:22:33,823 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-10 23:22:33,897 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
+[INFO ] 2025-01-10 23:22:38,252 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-10 23:22:38,425 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-10 23:22:39,038 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
