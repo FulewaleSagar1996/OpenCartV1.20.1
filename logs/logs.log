@@ -3,3 +3,9 @@
 [INFO ] 2025-01-12 23:36:56,419 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
 [INFO ] 2025-01-12 23:36:58,238 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
 [INFO ] 2025-01-12 23:36:58,298 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
+[INFO ] 2025-01-13 21:58:38,467 TC001_AccountResgistrationTest.Varify_account_reg_page() - ---------Starting test case-----
+[INFO ] 2025-01-13 21:58:38,661 TC001_AccountResgistrationTest.Varify_account_reg_page() - Clicked on my account link
+[INFO ] 2025-01-13 21:58:42,143 TC001_AccountResgistrationTest.Varify_account_reg_page() - clicked on register link
+[INFO ] 2025-01-13 21:58:42,164 TC001_AccountResgistrationTest.Varify_account_reg_page() - Providing customer details
+[INFO ] 2025-01-13 21:58:43,881 TC001_AccountResgistrationTest.Varify_account_reg_page() - Validating expecting message
+[INFO ] 2025-01-13 21:58:43,929 TC001_AccountResgistrationTest.Varify_account_reg_page() - *****Finished test case***
